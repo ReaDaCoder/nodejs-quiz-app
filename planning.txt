@@ -1,0 +1,3 @@
+Display UI
+When user presses start button the first question will pop up for 1 minute.
+When the time is upmit will move to the next question using interval.
